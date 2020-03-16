@@ -1,6 +1,8 @@
 //REMOVE SPACES
 
 const removeSpaces = str => {
+  return str.replace(/ /g, '');
+
 
 }
 
